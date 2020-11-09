@@ -1,6 +1,6 @@
 # My Gatsby Template
 
-The Gatsby Default Starter with the additions I use on most of my projects.
+The Gatsby Default Starter with the additions I use on most of my projects. This is set up for SCSS modules.
 
 ## Overview
 
