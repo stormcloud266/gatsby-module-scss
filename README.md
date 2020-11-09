@@ -5,7 +5,7 @@ The Gatsby Default Starter with the additions I use on most of my projects.
 ## Overview
 
 **Features**
-* SCSS set up (includes my basic framework)
+* SCSS modules
 * Responsive nav component
 * Minimal footer component
 * SEO component with open graph and Twitter cards
